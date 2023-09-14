@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "tester:painted_wood_purple_blinds"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}
