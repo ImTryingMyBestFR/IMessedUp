@@ -1,0 +1,8 @@
+{
+    "parent": "contenttweaker:block/half_slab",
+    "textures": {
+        "bottom": "contenttweaker:blocks/blinds",
+        "top": "contenttweaker:blocks/blinds",
+        "side": "contenttweaker:blocks/blinds"
+    }
+}
